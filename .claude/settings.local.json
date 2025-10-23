@@ -40,7 +40,9 @@
       "List(**)",
       "WebFetch(domain:github.com)",
       "WebSearch",
-      "Bash(bash .claude/scripts/pm/init.sh)"
+      "Bash(bash .claude/scripts/pm/init.sh)",
+      "Bash(mkdir:*)",
+      "Bash(test:*)"
     ]
   }
 }
